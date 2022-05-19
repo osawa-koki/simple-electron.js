@@ -4,7 +4,7 @@ echo -n "message -> "
 read message
 
 TZ=JST-9 date
-date=`TZ=JST-9 date -d "2 years ago" +%Y-%m-%dT%T+09:00`
+date=`TZ=JST-9 date -d "6 months ago" +%Y-%m-%dT%T+09:00`
 
 git add .
 git commit --allow-empty -m "$message" --date="$date"

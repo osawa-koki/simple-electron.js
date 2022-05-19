@@ -1,0 +1,10 @@
+{
+  "recommendations": [
+    "wayou.vscode-todo-highlight",
+    "editorconfig.editorconfig",
+    "github.copilot",
+    "davidanson.vscode-markdownlint",
+    "mhutchie.git-graph",
+    "eamodio.gitlens"
+  ]
+}

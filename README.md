@@ -2,6 +2,8 @@
 
 Electronの学習用プロジェクト。  
 
+![サンプル画像](./docs/img/sample.gif)  
+
 ## 実行方法
 
 ```shell
